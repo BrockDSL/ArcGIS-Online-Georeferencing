@@ -1,6 +1,5 @@
-Add in the tutorial image here 
 
-![Tool Logo](Image filename)
+![Georeferencing](Image filename)
 
 # ArcGIS Online Georeferencing Tutorial
 This tutorial will show you how to georeference historical maps using ArcGisOnline as of 2023. Georeferencing is a process that binds images to coordinates on a map, making a historical map image connected to a virtual map with accurate coordinate systems
@@ -10,7 +9,6 @@ This tutorial will show you how to georeference historical maps using ArcGisOnli
 ## Setup Instructions
 In preparation for this tutorial, you will need...
 
-Include:
  - Institutional access to [ArcGIS Online]([https://www.example.com](https://www.arcgis.com/index.html#) through your school's Office 365 Account
  - A high resolution JPG File of a map
  - Internet Access
@@ -143,9 +141,21 @@ To see this tutorial in action, watch the video.
 
 ## Additional Resources
 For related tutorials check out the links below. 
-[title](https://www.example.com)
-[title](https://www.example.com)
-[title](https://www.example.com)
+
+
+ArcGIS Online
+-[Introduction to ArcGIS Online]([https://www.example.com](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial))
+-[ArcGIS Storymaps]((https://brockdsl.github.io/ArcGIS-StoryMaps-Workshop/))
+-[ArcGIS Online Help](https://doc.arcgis.com/en/arcgis-online/reference/view-maps.htm))
+
+
+Advanced Tutorials
+-[Geocoding]([https://www.example.com](https://brockdsl.github.io/ArcGIS-Geocoding/))
+-[Joining Data]([https://www.example.com](https://brockdsl.github.io/ArcGIS_Joining_Data/))
+-[Visualization]([https://www.example.com](https://brockdsl.github.io/ArcGIS_Visualization/))
+-[Layout]([https://www.example.com](https://brockdsl.github.io/ArcGIS-Layout/))
+
+
 Brock University Map Data and GIS LIbrary often hosts workshops for learning and teaching with GIS. 
 Check out the [MDGL Website](https://www.example.com](https://brocku.ca/library/mdgl/) to see upcoming workshops and tutorials. 
 
