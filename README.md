@@ -34,6 +34,7 @@ In preparation for this tutorial, you will need...
 ## Step 1 Download Data
 The first thing you want to do is download your data, in this case a JPG image of the map. 
 Take note of where you stored the data on your computer, in this case the downloads folder. 
+
 ----
 
 ## Step 2 ArcGIS Online
