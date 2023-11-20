@@ -96,7 +96,7 @@ This process allows us to match known locations to one another, skewing the imag
 Do this for all four anchor points. 
 You may have to do this several times, adjusting as you see fit. Just aim to have the area you will use most on your map as accurate as possible. 
 
-If you are interested in having a more accurate representation of your historical map, the desktop software [ArcGIS Pro]([https://www.example.com](https://www.youtube.com/watch?v=GqH4UHTUf2s) allows you to create unlimited anchor points, leading to a more accurately georeferenced map. Look into this further if you are interested in using this process in the future. 
+If you are interested in having a more accurate representation of your historical map, the desktop software [ArcGIS Pro](https://www.youtube.com/watch?v=GqH4UHTUf2s) allows you to create unlimited anchor points, leading to a more accurately georeferenced map. Look into this further if you are interested in using this process in the future. 
 
 
 ----
