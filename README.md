@@ -2,7 +2,7 @@
 ![Georeferencing](Image filename)
 
 # ArcGIS Online Georeferencing Tutorial
-This tutorial will show you how to georeference historical maps using ArcGisOnline as of 2023. Georeferencing is a process that binds images to coordinates on a map, making a historical map image connected to a virtual map with accurate coordinate systems
+This tutorial will show you how to georeference historical maps using ArcGIS Online as of 2023. Georeferencing is a process that binds images to coordinates on a map, making a historical map image connected to a virtual map with accurate coordinate systems
 
 ----
 
