@@ -2,7 +2,7 @@ Add in the tutorial image here
 
 ![Tool Logo](Image filename)
 
-# Title of Tutorial
+# ArcGIS Online Georeferencing Tutorial
 Description of tutorial including what you will learn and any tools that will be used in the process
 
 ----
