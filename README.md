@@ -9,7 +9,7 @@ This tutorial will show you how to georeference historical maps using ArcGIS Onl
 ## Setup Instructions
 In preparation for this tutorial, you will need...
 
- - Institutional access to [ArcGIS Online]([https://www.example.com](https://www.arcgis.com/index.html#) through your school's Office 365 Account
+ - Institutional access to [ArcGIS Online](https://www.arcgis.com/index.html#) through your school's Office 365 Account
  - A high resolution JPG File of a map
  - Internet Access
 
@@ -37,7 +37,7 @@ Take note of where you stored the data on your computer, in this case the downlo
 ----
 
 ## Step 2 ArcGIS Online
-Next, open a browser and go to [ArcGIS Online]([https://www.example.com](https://www.arcgis.com/index.html#)) 
+Next, open a browser and go to [ArcGIS Online](https://www.arcgis.com/index.html#)
 Click Sign In. 
 Under the sign in page in YourArcGis Organization URL section, type Brock and click continue. 
 Click the blue box that says Brock University, then sign into your student Office 365 account. 
@@ -126,7 +126,7 @@ Click Save.
 ----
 
 ## Step 10 Accessing and Sharing Your Map
-Navigate back to the [ArcGIS Online]([https://www.example.com](https://www.arcgis.com/index.html#) Homepage and click ‘Content’ on the top of the screen. 
+Navigate back to the [ArcGIS Online](https://www.arcgis.com/index.html#) Homepage and click ‘Content’ on the top of the screen. 
 Your saved map will appear here as a web map. 
 
 On the right side of the screen, click the person symbol to update sharing and choose ‘Everyone (public), click save. 
@@ -144,20 +144,27 @@ For related tutorials check out the links below.
 
 
 ArcGIS Online
--[Introduction to ArcGIS Online]([https://www.example.com](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial))
--[ArcGIS Storymaps]((https://brockdsl.github.io/ArcGIS-StoryMaps-Workshop/))
--[ArcGIS Online Help](https://doc.arcgis.com/en/arcgis-online/reference/view-maps.htm))
+-[Introduction to ArcGIS Online](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial)
+
+-[ArcGIS Storymaps](https://brockdsl.github.io/ArcGIS-StoryMaps-Workshop/)
+
+-[ArcGIS Online Help](https://doc.arcgis.com/en/arcgis-online/reference/view-maps.htm)
+
 
 
 Advanced Tutorials
--[Geocoding]([https://www.example.com](https://brockdsl.github.io/ArcGIS-Geocoding/))
--[Joining Data]([https://www.example.com](https://brockdsl.github.io/ArcGIS_Joining_Data/))
--[Visualization]([https://www.example.com](https://brockdsl.github.io/ArcGIS_Visualization/))
--[Layout]([https://www.example.com](https://brockdsl.github.io/ArcGIS-Layout/))
+-[Geocoding](https://brockdsl.github.io/ArcGIS-Geocoding/)
+
+-[Joining Data](https://brockdsl.github.io/ArcGIS_Joining_Data/)
+
+-[Visualization](https://brockdsl.github.io/ArcGIS_Visualization/)
+
+-[Layout](https://brockdsl.github.io/ArcGIS-Layout/)
+
 
 
 Brock University Map Data and GIS LIbrary often hosts workshops for learning and teaching with GIS. 
-Check out the [MDGL Website](https://www.example.com](https://brocku.ca/library/mdgl/) to see upcoming workshops and tutorials. 
+Check out the [MDGL Website](https://brocku.ca/library/mdgl/) to see upcoming workshops and tutorials. 
 
 ----
 **This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
