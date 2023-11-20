@@ -3,7 +3,7 @@ Add in the tutorial image here
 ![Tool Logo](Image filename)
 
 # ArcGIS Online Georeferencing Tutorial
-Description of tutorial including what you will learn and any tools that will be used in the process
+This tutorial will show you how to georeference historical maps using ArcGisOnline as of 2023. Georeferencing is a process that binds images to coordinates on a map, making a historical map image connected to a virtual map with accurate coordinate systems
 
 ----
 
@@ -19,51 +19,38 @@ Include:
 
 ## Tutorial Steps
 
-1. Introduction
-2. Download Data
-3. ArcGIS Online
-4. Access Map Viewer
-5. Add Media Layer
-6. Adjust Transperency
-7. Adjust Image Size
-8. Georeferencing Anchor Points in Side-By-Side
-9. Final Adjustments
-10. Save Your Map
-11. Accessing and Sharing Your Map
+1. Download Data
+2. ArcGIS Online
+3. Access Map Viewer
+4. Add Media Layer
+5. Adjust Transperency
+6. Adjust Image Size
+7. Georeferencing Anchor Points in Side-By-Side
+8. Final Adjustments
+9. Save Your Map
+10. Accessing and Sharing Your Map
 
-
-
-Each tutorial will be different based on the tools used.  Breaking the tutorial up into individual steps is highly reccomended as it reduces congnitive load and allows for "break points" where users can stop and start from at their leisure.  Each step should cover no more than 1 or two concepts and should always assume that the user has minimal experience (explain every action in as granular detail as possible).
-
-If you are enhancing your tutorial with embedded content like H5P modules or Youtube videos, make sure to check how they will look on different mediums.  Generally they will look good on any computer monitor or projector but depending on where you got the embed code from it may not adjust nicely for mobile and tablet viewing.
-
-When embedding an iframe, make sure to place at least 2 blank lines above and below it in the markdown file to avoid the HTML interfereing with your markdown syntax.
 
 ----
 
-## Step 1 Introduction
-This tutorial will show you how to georeference historical maps using ArcGisOnline as of 2023. Georeferencing is a process that binds images to coordinates on a map, making a historical map image connected to a virtual map with accurate coordinate systems
-
-----
-
-## Step 2 Download Data
+## Step 1 Download Data
 The first thing you want to do is download your data, in this case a JPG image of the map. Take note of where you stored the data on your computer, in this case the downloads folder. 
 
 ----
 
-## Step 3 ArcGIS Online
+## Step 2 ArcGIS Online
 Next, open a browser and go to arcgis.com. Click sign in. Under the sign in page in YourArcGis Organization URL section, type Brock and click continue. Click the blue box that says Brock University, then sign into your student Office 365 account. This will bring you to the homepage of ArcGisOnline. 
 
 ----
 
-## Step 4 Access Map Viewer
+## Step 3 Access Map Viewer
 Once at the homepage, look in the left corner and click Map. This will bring you to the MapViewer, where you will be creating your map. 
 
 Zoom into the area on the map that you will be adding your historical map image to, in this case, Cape Breton. 
 
 ----
 
-## Step 5 Add Media Layer
+## Step 4 Add Media Layer
 On the left hand side of the screen, under layers, find the button that says ‘Add’ and click the drop down button. 
 At the bottom of the drop down menu, click ‘Add Media Layer’ 
 In the pop up for ‘Add Media’ click ‘Your Device’ then navigate to the folder where your map image is, in this case, the downloads folder. 
@@ -71,12 +58,12 @@ Select the image file and press open. A new page will load, adding your image to
 
 ----
 
-## Step 6 Adjust Transperency
+## Step 5 Adjust Transperency
 The slider on the bottom of the screen lets you adjust the transparency of your image to help you place your historical map on the web map. Adjust the transparency so that you can see the outline of your historical map and the features of the web map through it. 
 
 ----
 
-## Step 7 Adjust Image Size
+## Step 6 Adjust Image Size
 The orange box around your image allows you to rotate and adjust the size of your image on the web map. 
 Click and drag your image over the area you want to join it to and adjust the size to roughly fit the size of the landmass on the web map. 
 Rotate and adjust the image size as needed. 
@@ -88,7 +75,7 @@ We use georeferencing to get a close approximation of the two maps to fit, but t
 
 ----
 
-## Step 8 Georeferencing Anchor Points in Side-By-Side
+## Step 7 Georeferencing Anchor Points in Side-By-Side
 Once you have roughly matched the size and angle of your image to the web map, go to the bottom left corner of the screen and click ‘Side by Side’. 
 A new screen will pop up with the image on the left side and the web map on the right side of the screen. There will be blue and orange points on both the web map and the image.
 On the bottom of the screen, adjust your transparency to around 50%. 
@@ -106,7 +93,7 @@ If you are interested in having a more accurate representation of your historica
 
 ----
 
-## Step 9 Final Adjustments
+## Step 8 Final Adjustments
 Once you have your anchor points adjusted, click the ‘Overlay’ button at the bottom left side of your screen. 
 Take a look at how your historic map matches up to the web map, adjust the transparency, size and rotation as needed. 
 Again, your historic map will never perfectly fit the web map, just adjust unti;l you are happy with how it fits and is as accurate as you can get it for the areas you are going to use. 
@@ -120,13 +107,13 @@ Now your map is georeferenced.
 
 ----
 
-## Step 10 Save Your Map
+## Step 9 Save Your Map
 Go to the left side of the screen in the black toolbar, and click ‘Save and Open’. Then select ‘Save As’. Title your map, and add your course code to the ‘tags’ section. Then, under summary write a brief description of the map, including the citation information and your name. 
 Click Save. 
 
 ----
 
-## Step 11 Accessing and Sharing Your Map
+## Step 10 Accessing and Sharing Your Map
 Navigate back to the ArcGisOnline Homepage and click ‘Content’ on the top of the screen. Your saved map will appear here as a web map. 
 
 On the right side of the screen, click the person symbol to update sharing and choose ‘Everyone (public’, click save. 
@@ -135,7 +122,7 @@ You can now share your map to anyone by clicking on the title and copying the UR
 ----
 
 ## Video of this Tutorial
-This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+To see this tutorial in action, watch the video. 
 
 ----
 
