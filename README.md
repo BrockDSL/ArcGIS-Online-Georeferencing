@@ -18,6 +18,7 @@ Include:
 ----
 
 ## Tutorial Steps
+
 1. Introduction
 2. Download Data
 3. ArcGIS Online
