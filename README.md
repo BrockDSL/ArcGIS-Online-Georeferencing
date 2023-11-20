@@ -11,11 +11,10 @@ Description of tutorial including what you will learn and any tools that will be
 In preparation for this tutorial, you will need...
 
 Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+ - Institutional access to ArcGIS Online through your school's Office 365 Account
+ - A high resolution JPG File of a map
+ - Internet Access 
 
-For all of the above, keep in mind that some people could be using machines on campus (or elsewhere) that might have limitations in regards to downloading tools and files so be sure to mention that somewhere.
 
 ----
 
