@@ -145,6 +145,7 @@ For related tutorials check out the links below.
 
 ArcGIS Online
 
+
 -[Introduction to ArcGIS Online](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial)
 
 -[ArcGIS Storymaps](https://brockdsl.github.io/ArcGIS-StoryMaps-Workshop/)
@@ -154,6 +155,7 @@ ArcGIS Online
 
 
 Advanced Tutorials
+
 
 -[Geocoding](https://brockdsl.github.io/ArcGIS-Geocoding/)
 
