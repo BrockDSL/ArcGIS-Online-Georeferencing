@@ -18,17 +18,17 @@ Include:
 ----
 
 ## Tutorial Steps
-1 Introduction
-2 Download Data
-3 ArcGIS Online
-4 Access Map Viewer
-5 Add Media Layer
-6 Adjust Transperency
-7 Adjust Image Size
-8 Georeferencing Anchor Points in Side-By-Side
-9 Final Adjustments
-10 Save Your Map
-11 Accessing and Sharing Your Map
+1. Introduction
+2. Download Data
+3. ArcGIS Online
+4. Access Map Viewer
+5. Add Media Layer
+6. Adjust Transperency
+7. Adjust Image Size
+8. Georeferencing Anchor Points in Side-By-Side
+9. Final Adjustments
+10. Save Your Map
+11. Accessing and Sharing Your Map
 
 
 
