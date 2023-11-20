@@ -134,11 +134,20 @@ You can now share your map to anyone by clicking on the title and copying the UR
 
 ----
 
-## Next Steps (Optional)
+## Video of this Tutorial
 This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
 
 ----
 
+## Additional Resources
+For related tutorials check out the links below. 
+[title](https://www.example.com)
+[title](https://www.example.com)
+[title](https://www.example.com)
+Brock University Map Data and GIS LIbrary often hosts workshops for learning and teaching with GIS. 
+Check out the [MDGL Website](https://www.example.com](https://brocku.ca/library/mdgl/)) to see upcoming workshops and tutorials. 
+
+----
 **End notes**
 This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
 
