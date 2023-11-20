@@ -9,7 +9,7 @@ This tutorial will show you how to georeference historical maps using ArcGIS Onl
 ## Setup Instructions
 In preparation for this tutorial, you will need...
 
- - Institutional access to [ArcGIS Online](https://www.arcgis.com/index.html#) through your school's Office 365 Account
+ - Institutional access to [ArcGIS Online](https://www.arcgis.com/index.html#). through your school's Office 365 Account
  - A high resolution JPG File of a map
  - Internet Access
 
