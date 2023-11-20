@@ -145,7 +145,7 @@ For related tutorials check out the links below.
 [title](https://www.example.com)
 [title](https://www.example.com)
 Brock University Map Data and GIS LIbrary often hosts workshops for learning and teaching with GIS. 
-Check out the [MDGL Website](https://www.example.com](https://brocku.ca/library/mdgl/)) to see upcoming workshops and tutorials. 
+Check out the [MDGL Website](https://www.example.com](https://brocku.ca/library/mdgl/) to see upcoming workshops and tutorials. 
 
 ----
 **End notes**
