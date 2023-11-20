@@ -13,12 +13,25 @@ In preparation for this tutorial, you will need...
 Include:
  - Institutional access to ArcGIS Online through your school's Office 365 Account
  - A high resolution JPG File of a map
- - Internet Access 
-
+ - Internet Access
 
 ----
 
 ## Tutorial Steps
+1 Introduction
+2 Download Data
+3 ArcGIS Online
+4 Access Map Viewer
+5 Add Media Layer
+6 Adjust Transperency
+7 Adjust Image Size
+8 Georeferencing Anchor Points in Side-By-Side
+9 Final Adjustments
+10 Save Your Map
+11 Accessing and Sharing Your Map
+
+
+
 Each tutorial will be different based on the tools used.  Breaking the tutorial up into individual steps is highly reccomended as it reduces congnitive load and allows for "break points" where users can stop and start from at their leisure.  Each step should cover no more than 1 or two concepts and should always assume that the user has minimal experience (explain every action in as granular detail as possible).
 
 If you are enhancing your tutorial with embedded content like H5P modules or Youtube videos, make sure to check how they will look on different mediums.  Generally they will look good on any computer monitor or projector but depending on where you got the embed code from it may not adjust nicely for mobile and tablet viewing.
