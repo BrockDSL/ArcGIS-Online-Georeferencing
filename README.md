@@ -41,6 +41,61 @@ When embedding an iframe, make sure to place at least 2 blank lines above and be
 
 ----
 
+## Step 1 Introduction
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 2 Download Data
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 3 ArcGIS Online
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 4 Access Map Viewer
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 5 Add Media Layer
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 6 Adjust Transperency
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 7 Adjust Image Size
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 8 Georeferencing Anchor Points in Side-By-Side
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 9 Final Adjustments
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 10 Save Your Map
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
+## Step 11 Accessing and Sharing Your Map
+This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+
+----
+
 ## Next Steps (Optional)
 This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
 
