@@ -6,7 +6,8 @@ This tutorial will show you how to georeference historical maps using ArcGIS Onl
 
 ----
 
-![Georeferencing](Georeferencing-Thumbnail.JPG)
+
+![thumbnail](https://github.com/DanielBrett/ArcGIS-Online-Georeferencing/assets/150370822/ca910b71-688d-4099-ac2f-d35d28fd7c9f)
 
 ----
 
