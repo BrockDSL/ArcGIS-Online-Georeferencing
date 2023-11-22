@@ -28,7 +28,7 @@ In preparation for this tutorial, you will need...
 4. Add Media Layer
 5. Adjust Transperency
 6. Adjust Image Size
-7. Georeferencing Anchor Points in Side-By-Side
+7. Georeferencing Control Points in Side-By-Side
 8. Final Adjustments
 9. Save Your Map
 10. Accessing and Sharing Your Map
@@ -141,23 +141,23 @@ On the bottom of the screen, adjust your transparency to around 50%.
 ![18](https://github.com/DanielBrett/ArcGIS-Online-Georeferencing/assets/150370822/376dd432-61b6-4e08-bb99-87d8efdadeb1)
 
 
-The orange and blue points on the web map and the image correspond with each other. These act as anchor points for where your image joins to the map.
+The orange and blue points on the web map and the image correspond with each other. These act as control points that anchor where your image joins to the map.
 
  ![14](https://github.com/DanielBrett/ArcGIS-Online-Georeferencing/assets/150370822/cf83cff2-b4fd-454b-8a19-8122b0b98ec1)
 
-On the image panel, move one of the anchor points to an easy to identify point on the historical map image. 
+On the image panel, move one of the control points to an easy to identify point on the historical map image. 
 
-Then, on the web map panel, move the same anchor point to the corresponding feature on the web map. 
+Then, on the web map panel, move the same control point to the corresponding feature on the web map. 
 
 This process allows us to match known locations to one another, skewing the image to fit the web map. 
 
-Do this for all four anchor points. 
+Do this for all four control points. 
 ![16](https://github.com/DanielBrett/ArcGIS-Online-Georeferencing/assets/150370822/2b0c248e-149c-4797-af38-e92b86378971)
 
 You may have to do this several times, adjusting as you see fit. Just aim to have the area you will use most on your map as accurate as possible. 
 
 
-If you are interested in having a more accurate representation of your historical map, the desktop software [ArcGIS Pro](https://www.youtube.com/watch?v=GqH4UHTUf2s) allows you to create unlimited anchor points, leading to a more accurately georeferenced map. Look into this further if you are interested in using this process in the future. 
+If you are interested in having a more accurate representation of your historical map, the desktop software [ArcGIS Pro](https://www.youtube.com/watch?v=GqH4UHTUf2s) allows you to create unlimited control points, leading to a more accurately georeferenced map. Look into this further if you are interested in using this process in the future. 
 
 
 ----
