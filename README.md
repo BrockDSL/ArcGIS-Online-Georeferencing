@@ -222,11 +222,6 @@ You can now share your map to anyone by clicking on the title and copying the UR
 
 ----
 
-## Video of this Tutorial
-
-To see this tutorial in action, watch the video. 
-
-----
 
 ## Additional Resources
 
